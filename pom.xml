@@ -6,7 +6,7 @@
 	<artifactId>checker-test</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<properties>
-		<checkerframework.version>3.43.0</checkerframework.version>
+		<checkerframework.version>3.44.0</checkerframework.version>
 	</properties>
 	<dependencies>
 		<dependency>
